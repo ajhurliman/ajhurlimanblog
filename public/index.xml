@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>https://ajhurliman.blog/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jan 2020 02:44:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://ajhurliman.blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world</title>
+      <link>https://ajhurliman.blog/posts/hello-world/</link>
+      <pubDate>Tue, 21 Jan 2020 02:44:09 +0000</pubDate>
+      
+      <guid>https://ajhurliman.blog/posts/hello-world/</guid>
+      <description>Ipsem lorem</description>
+    </item>
+    
+  </channel>
+</rss>
